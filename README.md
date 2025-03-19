@@ -1,7 +1,7 @@
 # OGN-radar
 Open Glider Network (OGN) radar
 
-![OGN-radar](https://github.com/user-attachments/assets/eaefe8b2-40a7-4023-8056-72c9540ca203)
+![OGN-radar_Flarm](https://github.com/user-attachments/assets/03a49882-4a93-4e09-89d3-ab6887930bde)
 
 **WORK IN PROGRESS**
 
@@ -20,6 +20,10 @@ Open Glider Network (OGN) radar
 
 - OGN-Empfangsantenne 165cm
 - (SMA male to Antenna pigtail)
+
+Added for future software change purposes
+- RTC Battery for Raspberry Pi 5
+- USB GPS Dongle
 
 **Software**
 - 
