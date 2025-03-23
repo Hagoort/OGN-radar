@@ -13,7 +13,7 @@ Open Glider Network (OGN) radar
 - Waveshare PCIe TO USB 3.2 Gen1 HAT+
 - Set of 3 PCIe cables (3cm, 5cm, 8cm) for Raspberry Pi 5
 
-- RTL-SDR V4
+- RTL-SDR V4 USB Dongle
 - SMA male to SMA male double straight pigtail RG316 or SMA Male Coupler (to connect RTL-SDR V4 and Uputronics Filtered Preamps 868MHz)
 - Uputronics Filtered Preamps 868MHz
 - USB (90 degrees) - USB-C cable (to power Uputronics Filtered Preamps 868MHz)
@@ -23,7 +23,16 @@ Open Glider Network (OGN) radar
 
 Added for future software change purposes
 - RTC Battery for Raspberry Pi 5
-- USB GPS Dongle
+- GPS USB Dongle
+
+**Hardware installation**
+- See website https://kksb-cases.com/pages/assembly-instruction-kksb-raspberry-pi-5-7-inch-touchscreen-case
+- Add Waveshare PCIe TO USB 3.2 Gen1 HAT+ to the center and touchscreen
+- Connect Waveshare PCIe TO USB 3.2 Gen1 HAT+ to Raspberry Pi 5 with PCIe cable of 8cm
+- Add RTC Battery to Raspberry Pi 5
+- Insert RTL-SDR V4 USB Dongle
+- Connect Uputronics Filtered Preamps 868MHz to RTL-SDR V4 USB Dongle
+- Insert GPS USB Dongle
 
 **Software**
 - 
